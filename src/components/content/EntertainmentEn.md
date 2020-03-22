@@ -1,7 +1,9 @@
 
 <style>
 * {
-    font-family: 'Noto Sans', sans-serif;}
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.8rem;
+    }
 
 li {
     text-align: center;
@@ -9,11 +11,13 @@ li {
 
 h2, h3 {
     text-align: center;
+    font-size: 1.2rem;
 }
 
 em {
     background-color: aqua;
 }
+
 
 ul {
     display: flex;
@@ -23,10 +27,20 @@ ul {
 }
 
 li {
-    width: 30%;
-    margin: 1rem;
+    width: 95%;
+    margin: 0.45rem;
 
 }
+
+	@media (min-width: 640px) {
+		li {
+            width: 30%;
+            margin: 1rem;
+		}
+		li>p, li a {
+            font-size: 1rem;
+		}
+	}
 
 </style>
 ---

@@ -11,6 +11,7 @@ li {
 
 h2, h3 {
     text-align: center;
+    font-size: 1.2rem;
 }
 
 em {
@@ -35,6 +36,8 @@ li {
 		li {
             width: 30%;
             margin: 1rem;
+		}
+		li>p, li a {
             font-size: 1rem;
 		}
 	}

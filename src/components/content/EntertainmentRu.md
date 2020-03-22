@@ -1,7 +1,9 @@
 
 <style>
 * {
-    font-family: 'Noto Sans', sans-serif;}
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.8rem;
+    }
 
 li {
     text-align: center;
@@ -9,11 +11,13 @@ li {
 
 h2, h3 {
     text-align: center;
+    font-size: 1.2rem;
 }
 
 em {
     background-color: aqua;
 }
+
 
 ul {
     display: flex;
@@ -23,10 +27,20 @@ ul {
 }
 
 li {
-    width: 30%;
-    margin: 1rem;
+    width: 95%;
+    margin: 0.45rem;
 
 }
+
+	@media (min-width: 640px) {
+		li {
+            width: 30%;
+            margin: 1rem;
+		}
+		li>p, li a {
+            font-size: 1rem;
+		}
+	}
 
 </style>
 ---
@@ -42,7 +56,7 @@ li {
 
 * [Музейная Москва онлайн](https://union.catalog.mos.ru/ "Музейная Москва онлайн") - оцифрованным коллекциям музеев Москвы - "Коллекции онлайн" позволяет искать и просматривать экспонаты музеев Москвы.
 
-* [Дом Н. В. Гоголя — мемориальный музей и научная библиотека](http://domgogolya.ru/museum/virtual/ "Дом Н. В. Гоголя — мемориальный музей и научная библиотека") - виртуальный тур по музею и виртуальная выставки, посвященные Н.В. Гоголю.
+* [Дом Н. В. Гоголя](http://domgogolya.ru/museum/virtual/ "Дом Н. В. Гоголя — мемориальный музей и научная библиотека") - виртуальный тур по музею и виртуальная выставки, посвященные Н.В. Гоголю.
 
 * [Музей-панорама «Бородинская битва»](http://mpbb.ru/data/vtours/borodino/?lp=p1&lang=ru "Музей-панорама «Бородинская битва»") - виртуальный тур по муузею-панораме «Бородинская битва».
 
@@ -55,9 +69,9 @@ li {
 
 ### Временные акции в онлайн-кинотеатрах
 
-* *Temporary Free* [КиноПоиск HD](https://t.me/kinopoiskhdhd/759/ "КиноПоиск HD") - Подписка на КиноПоиск HD до конца апреля по промокоду POKAVSEDOMA.
+* *Temporary Free* <br> [КиноПоиск HD](https://t.me/kinopoiskhdhd/759/ "КиноПоиск HD") - Подписка на КиноПоиск HD до конца апреля по промокоду POKAVSEDOMA.
 
-* *Temporary Free* [More.tv](https://more.tv/authentication "More.tv") - Месяц бесплатной подписки на More.tv SIDIMDOMA.
+* *Temporary Free* <br> [More.tv](https://more.tv/authentication "More.tv") - Месяц бесплатной подписки на More.tv SIDIMDOMA.
 
 
 
