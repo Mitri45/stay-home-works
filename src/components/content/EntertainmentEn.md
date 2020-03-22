@@ -58,13 +58,13 @@ li {
 
 * [British Museum](https://britishmuseum.withgoogle.com/ "British Museum") - The Museum of the World – an interactive experience through time, continents and cultures, featuring some of the most fascinating objects in human history. The project is a partnership between the British Museum and Google Cultural Institute. 
 
-* [Louvre](https://www.louvre.fr/en/visites-en-ligne#tabs/ "Louvre") - Visit the Louvre's exhibition rooms and galleries, contemplate the façades of the Louvre. Come along on a virtual tour and enjoy the view.
+* [Louvre](https://www.louvre.fr/en/visites-en-ligne#tabs/ "Louvre") - visit the Louvre's exhibition rooms and galleries, contemplate the façades of the Louvre. Come along on a virtual tour and enjoy the view.
 
-* [Salvador Dalí Museum](https://thedali.org/virtual-tour/ "Salvador Dalí Museum") - Discover an unparalleled collection of Salvador Dalí artwork in an virtual tour.
+* [Salvador Dalí Museum](https://thedali.org/virtual-tour/ "Salvador Dalí Museum") - discover an unparalleled collection of Salvador Dalí artwork in an virtual tour.
 
-* [The Uffizi Galleries ](https://www.uffizi.it/en/online-exhibitions "The Uffizi Galleries") - Discover masterpieces of The Uffizi Galleries collections and their history, travelling through captivating descriptions and HD pictures.
+* [The Uffizi Galleries ](https://www.uffizi.it/en/online-exhibitions "The Uffizi Galleries") - discover masterpieces of The Uffizi Galleries collections and their history, travelling through captivating descriptions and HD pictures.
 
-* [National Museum of Natural History](https://naturalhistory.si.edu/visit/virtual-tour/ "National Museum of Natural History") - The Smithsonian, National Museum of Natural History virtual tours allow visitors to take self-guided, room-by-room tours of select exhibits and areas within the museum from their desktop or mobile device..
+* [National Museum of Natural History](https://naturalhistory.si.edu/visit/virtual-tour/ "National Museum of Natural History") - the Smithsonian, National Museum of Natural History virtual tours allow visitors to take self-guided, room-by-room tours of select exhibits and areas within the museum from their desktop or mobile device..
 
 ### Special projects
 

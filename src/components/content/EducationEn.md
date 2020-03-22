@@ -36,6 +36,7 @@ li {
 		li {
             width: 30%;
             margin: 1rem;
+            font-size: 1rem;
 		}
 		li>p, li a {
             font-size: 1rem;
@@ -46,7 +47,7 @@ li {
 ---
 ## Resources for education
 
-* [Khan Academy](https://www.khanacademy.org/ "Khan Academy") - A personalized free learning resource for all ages
+* [Khan Academy](https://www.khanacademy.org/ "Khan Academy") - a personalized free learning resource for all ages
 
 * [Coursera](https://www.coursera.org/ "Coursera") - hundreds of free courses give you access to on-demand video lectures, homework exercises, and community discussion forums.
 
