@@ -12,7 +12,6 @@ const buttonClick = () => dispatch('buttonClick');
 
 header {
     width: 100%;
-    max-height: 15rem;
     background-color: #e4652b;
     display: flex;
     flex-flow: row wrap;
