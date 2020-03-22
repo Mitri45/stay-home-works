@@ -1,4 +1,34 @@
 
+<style>
+* {
+    font-family: 'Noto Sans', sans-serif;}
+
+li {
+    text-align: center;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+em {
+    background-color: aqua;
+}
+
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+li {
+    width: 30%;
+    margin: 1rem;
+
+}
+
+</style>
 ---
 ## Resources for education
 

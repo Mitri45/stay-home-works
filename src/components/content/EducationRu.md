@@ -1,19 +1,44 @@
 
 <style>
 * {
-    font-family: 'Noto Sans', sans-serif;}
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.8rem;
+    }
 
 li {
     text-align: center;
 }
 
-h2 {
+h2, h3 {
     text-align: center;
 }
 
 em {
     background-color: aqua;
 }
+
+
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+li {
+    width: 95%;
+    margin: 0.45rem;
+
+}
+
+	@media (min-width: 640px) {
+		li {
+            width: 30%;
+            margin: 1rem;
+            font-size: 1rem;
+		}
+	}
+
 </style>
 ---
 ## Ресурсы по самообразованию 
@@ -26,7 +51,7 @@ em {
 
 * [Универсариум](https://universarium.org/catalog/ "Универсариум") - Универсариум предоставляет возможность получения качественного образования от лучших российских преподавателей и ведущих университетов для миллионов российских граждан.сотни бесплатных курсов с видео-лекциям, домашними заданиями и форумами поддержки.
 
-* *Temporary Free* [Нетология](https://netology.ru/courses?modal=stay_home "Нетология") - бесплатные миникурсы от Нетологии для всех желающих. (Действует до 31 марта).
+* *Temporary Free*<br> [Нетология](https://netology.ru/courses?modal=stay_home "Нетология") - бесплатные миникурсы от Нетологии для всех желающих. (Действует до 31 марта).
 
 
 
