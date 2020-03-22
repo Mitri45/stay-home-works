@@ -1,6 +1,13 @@
 {
-  "name": "svelte-app",
-  "version": "1.0.0",
+  "name": "stay-home-works",
+  "author": {
+    "name": "Dmitrii Bludov",
+    "url": "https://www.dmitrii.website"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mitri45/stay-home-works.git"
+  },
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
