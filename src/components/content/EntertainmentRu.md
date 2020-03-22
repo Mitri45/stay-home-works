@@ -69,9 +69,9 @@ li {
 
 ### Временные акции в онлайн-кинотеатрах
 
-* *Temporary Free* <br> [КиноПоиск HD](https://t.me/kinopoiskhdhd/759/ "КиноПоиск HD") - Подписка на КиноПоиск HD до конца апреля по промокоду POKAVSEDOMA.
+* *Временно бесплатно* <br> [КиноПоиск HD](https://t.me/kinopoiskhdhd/759/ "КиноПоиск HD") - Подписка на КиноПоиск HD до конца апреля по промокоду POKAVSEDOMA.
 
-* *Temporary Free* <br> [More.tv](https://more.tv/authentication "More.tv") - Месяц бесплатной подписки на More.tv SIDIMDOMA.
+* *Временно бесплатно* <br> [More.tv](https://more.tv/authentication "More.tv") - Месяц бесплатной подписки на More.tv SIDIMDOMA.
 
 
 

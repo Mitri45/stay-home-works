@@ -39,11 +39,11 @@ $: console.log(`Language value ${currentLanguage}`)
 <main>
 
 {#if currentLanguage === "English"}
-	 <h1>List of internet-sources that won't let you get boring during home stay.</h1>
+	 <h1>List of free sources collected manually, that won't let you get boring during home stay.</h1>
 {/if}
 
 {#if currentLanguage === "Russian"}
-	 <h1>Список интернет-ресурсов, которые помогут провести время в изоляции с пользой</h1>
+	 <h1>Список бережно собранных бесплатных ресурсов, которые помогут провести время в изоляции с пользой</h1>
 {/if}
 
 <Education {currentLanguage}/>
