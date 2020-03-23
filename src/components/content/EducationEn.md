@@ -53,6 +53,8 @@ li {
 
 * [NatGeo Kids](https://www.natgeokids.com/ "NatGeo Kids") - National Geographic project for young children, with which they can better know the nature and planet Earth.
 
+* [freeCodeCamp](https://www.freecodecamp.org/ "freeCodeCamp") - nonprofit community that helps you learn to code by completing coding challenges and building projects. You'll also earn verified certifications along the way.
+
 * [Kadenze](https://www.kadenze.com/courses/ "Kadenze") - Kadenze partners with leading universities and institutions across the globe to provide world-class online education in the fields of art and creative technology.
 
 * [FutureLearn](https://www.futurelearn.com/ "FutureLearn") - FutureLearn offers a diverse selection of free courses from leading universities and cultural institutions from around the world.
