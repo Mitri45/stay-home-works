@@ -54,11 +54,19 @@ li {
 
 * [Google Arts&Culture](https://artsandculture.google.com/project/street-view "Google Arts&Culture") - step inside must-see museums around the world.
 
+* [Access Mars](https://accessmars.withgoogle.com/ "Access Mars") - VR tour over real surface of Mars recorded by NASA's Curiosity rover.
+
+* [Buckingham Palace](https://www.royal.uk/virtual-tours-buckingham-palace/ "Buckingham Palace") - virtual tours over Buckingham Palace.
+
+* [Great Wall of China](https://www.thechinaguide.com/destination/great-wall-of-china/ "Great Wall of China") - virtual tour of the Great Wall of China.
+
 * [Bayerische Staatsoper](https://www.staatsoper.de/en/stream/ "Bayerische Staatsoper") - Bayerische Staatsoper - one of the world’s leading opera houses, from March 11 to April 19 will try to provide individual performances as free live stream or video-on-demand.
 
 * [British Museum](https://britishmuseum.withgoogle.com/ "British Museum") - The Museum of the World – an interactive experience through time, continents and cultures, featuring some of the most fascinating objects in human history. The project is a partnership between the British Museum and Google Cultural Institute. 
 
 * [Louvre](https://www.louvre.fr/en/visites-en-ligne#tabs/ "Louvre") - visit the Louvre's exhibition rooms and galleries, contemplate the façades of the Louvre. Come along on a virtual tour and enjoy the view.
+
+* [Virtual Yosemite](https://www.virtualyosemite.org/virtual-tour/ "Virtual Yosemite") - interactive tour of one of America’s most popular and spectacular natural environments – Yosemite National Park in California.
 
 * [Salvador Dalí Museum](https://thedali.org/virtual-tour/ "Salvador Dalí Museum") - discover an unparalleled collection of Salvador Dalí artwork in an virtual tour.
 
@@ -66,9 +74,13 @@ li {
 
 * [Mount Vernon](https://virtualtour.mountvernon.org/ "Mount Vernon") - discover the estate of George Washington - Mount Vernon, the most popular historic estate in America.
 
+* [Taj Mahal](https://www.taj-mahal.net/newtaj/ "Taj Mahal") - online virtual tour enables visitors to interactively explore the "UNESCO World Heritage Site", the Taj Mahal at Agra in India.
+
 * [HistoryView VR](https://historyview.org/ "HistoryView VR") - with HistoryView VR you can virtually discover a big collection of digital data of historical sites all around the world.
 
 * [Cyark](https://www.cyark.org/projects/ "Cyark") - digital experience of the world's most significant cultural heritage.
+
+* [Vatican Museum](http://www.museivaticani.va/content/museivaticani/en/collezioni/musei/tour-virtuali-elenco.html/ "Vatican Museum") - explore Vatican Museum in virtual tours.
 
 * [The Uffizi Galleries ](https://www.uffizi.it/en/online-exhibitions "The Uffizi Galleries") - discover masterpieces of The Uffizi Galleries collections and their history, travelling through captivating descriptions and HD pictures.
 
