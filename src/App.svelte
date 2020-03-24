@@ -13,7 +13,6 @@ function handleLanguageChange() {
             currentLanguage = "English"
 };
     }
-$: console.log(`Language value ${currentLanguage}`)
 
 </script>
 
